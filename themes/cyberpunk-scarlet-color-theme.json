@@ -66,7 +66,7 @@
 		"editor.foreground": "#ff0055",
 		"editor.lineHighlightBackground": "#030202",
 		"editor.lineHighlightBorder": "#030202",
-		"editor.selectionBackground": "#000000",
+		"editor.selectionBackground": "#11fd094b",
 		"editor.selectionHighlightBackground": "#ff00552c",
 		"editor.selectionHighlightBorder": "#ff00557e",
 		"editor.hoverHighlightBackground": "#ff00552c",
