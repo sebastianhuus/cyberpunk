@@ -7,6 +7,8 @@
 		"titleBar.inactiveBackground": "#1E1D45",
 		"titleBar.inactiveForeground": "#00FF9C",
 		"titleBar.border": "#100D23",
+
+		// EditorGutter Section
 		"editorGutter.background": "#05051366",
 		"editorGutter.addedBackground": "#3c9f4a",
 		"editorGutter.deletedBackground": "#a22929",
@@ -51,6 +53,8 @@
         "badge.background": "#00ff6a",
         "badge.foreground": "#001107",
 		"activityBar.border": "#09040f",
+
+		// Editor Section
 		"editor.background": "#100d23",
 		"editor.foreground": "#00FF9C",
 		"editorError.foreground": "#ff1865",
